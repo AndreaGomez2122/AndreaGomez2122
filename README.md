@@ -1,3 +1,10 @@
+<p align="left">
+    <img loading="lazy" style="border-radius: 0.25rem;" 
+      src=https://raw.githubusercontent.com/AndreaGomez2122/AndreaGomez2122/5b088960da89c03f66331cc7792807312f1d9d0d/code-with-love.svg alt="Logo" 
+      borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
+</p>
+
+
 
 
 ### ¡Hola, soy Andrea! 👋
