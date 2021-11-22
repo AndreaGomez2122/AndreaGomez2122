@@ -20,6 +20,10 @@
 - 👩🏼‍🎓  Estudiante de Desarrollo de Aplicaciones Multiplatadorma.
 - ✨ Amante del diseño y de las cosas bonitas, es por eso que en mis ratos libres hago páginas web.
 
+
+---
+
+
 Me encanta el arte 🎨, el campo 🍃, el cine 🎥 y mi familia 👨‍👩‍👧‍👧.
 <p>
 En el pasado fui cocinera y camarera y aunque aprendí mucho en esos años, sabía que no era para mí 😌.
