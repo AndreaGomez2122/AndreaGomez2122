@@ -56,12 +56,26 @@ Estas son algunas de las tecnologías 💻 que estoy usando durante mi proceso d
   height="45">
   <img loading="lazy" src="https://camo.githubusercontent.com/cf001d2a684fad204e899dab911627fbe9180dbaf26f89c432f438a375e88e6a/68747470733a2f2f75706c6f61642e77696b696d656469612e6f72672f77696b6970656469612f636f6d6d6f6e732f7468756d622f642f64352f435353335f6c6f676f5f616e645f776f72646d61726b2e7376672f3132303070782d435353335f6c6f676f5f616e645f776f72646d61726b2e7376672e706e67" 
  height="45">
- <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" 
+  <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/59/Visual_Studio_Icon_2019.svg/1200px-Visual_Studio_Icon_2019.svg.png" 
  height="45">
+  <img loading="lazy" src="https://www.armadilloamarillo.com/wp-content/uploads/spring-boot-ok.png" 
+  height="45">
+    <img loading="lazy" src="https://www.muycomputerpro.com/wp-content/uploads/2018/03/oracle-java-javafx-jdk.jpg" 
+  height="45">
+    <img loading="lazy" src="https://programacion.net/files/new/new_02240_.jpeg"
+  height="45">
+    <img loading="lazy" src="http://www.mastertheboss.com/wp-content/uploads/2021/12/jpalogo.png"
+  height="45">
+     <img loading="lazy" src="http://dotnetuy.com/wp-content/uploads/2018/07/sql_01-1.jpg"
+  height="45">
+     <img loading="lazy" src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg"
+  height="45">
+     <img loading="lazy" src="https://1000marcas.net/wp-content/uploads/2020/11/JavaScript-logo.png"
+  height="45">
+            
     
-
     
-    
+   
 </p>
 
 
