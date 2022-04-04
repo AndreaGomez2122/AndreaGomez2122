@@ -29,11 +29,6 @@ Me encanta el arte 🎨, el campo 🍃, el cine 🎥 y mi familia 👨‍👩‍
 En el pasado fui cocinera y camarera y aunque aprendí mucho en esos años, sabía que no era para mí 😌.
 </p>
 
-<p align="center">
-    <img loading="lazy" style="border-radius: 0.25rem;" 
-      src="https://img.wattpad.com/81b4113557d300b451d116deba726df64618c088/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6c4637576b424a446d74554a6e673d3d2d3637383330333030352e313537376131643139306633623733623130303635343431343232382e676966" alt="Logo" 
-      borderRadius='1rem' boxShadow = '0 5px 18px rgba(0,0,0,0.3)'>
-</p>
 
 
 <h2 align="center">Tecnologías usadas</h2>
